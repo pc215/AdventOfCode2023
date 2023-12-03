@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -g -std=c++2a
-BUILD = 2a 2b
+BUILD = 3a 3b
 
 .PHONY: all clean
 
